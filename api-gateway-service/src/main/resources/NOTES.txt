@@ -1,0 +1,2 @@
+API GATEWAY
+http://localhost:8765/CURRENCY-CONVERSION-SERVICE/currency-exchange/from/USD/to/INR
